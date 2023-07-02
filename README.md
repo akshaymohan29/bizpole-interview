@@ -42,3 +42,20 @@ and also receives a welcome mail from the Application.
 "Bob" has the option to fetch more activities, but is limited to 2 new activities per day.
 "Bob" could also edit and update the activity attributes but he does not have the privilege to delete the activity.
 "Alice" the administrator could view the activities in the application and has the permission to delete any activity.
+
+https://github.com/nooBask/bizpole-interview/
+
+All Functality are done please check by  clicking urls 1,http://127.0.0.1:8000/ 2, http://127.0.0.1:8000/home
+
+Image of Pages 
+
+1.Register page ![image](https://github.com/nooBask/bizpole-interview/assets/91270254/02961299-6cae-4ddc-bde7-18a6bb8f1acb)
+
+2.user view page ![image](https://github.com/nooBask/bizpole-interview/assets/91270254/2be69b94-0915-478f-abb3-1d4e35effbe9)
+
+3.Admin User Page ![image](https://github.com/nooBask/bizpole-interview/assets/91270254/fc3207f4-280e-4957-ae9c-3b608e2ca8c7)
+
+4.When click name ![image](https://github.com/nooBask/bizpole-interview/assets/91270254/5d9c6f03-06ec-4c45-b362-c338f765b044)
+
+
+
